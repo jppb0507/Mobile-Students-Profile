@@ -7,10 +7,6 @@ A Flutter mobile application for managing student profiles.
 - Multi-screen navigation
 - Interactive UI components
 
-## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Technologies Used
 - Flutter
 - Dart
